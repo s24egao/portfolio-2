@@ -1,0 +1,11 @@
+{
+    "name": "Cat 3D",
+    "image": "/img/works/image04.jpg",
+    "date": "2023 / 05 / 12",
+    "info": [
+        { "name": "description", "content": "A 3D cat adventure game on website" },
+        { "name": "release date", "content": "2023 / 05 / 12" }
+    ],
+    "link": "https://s24egao.github.io/cat",
+    "page": "/works/04"
+}

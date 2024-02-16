@@ -1,0 +1,11 @@
+{
+    "name": "3D Webpage",
+    "image": "/img/works/image01.jpg",
+    "date": "2022 / 05 / 28",
+    "info": [
+        { "name": "description", "content": "A self introduction webpage made with three.js" },
+        { "name": "release date", "content": "2022 / 05 / 28" }
+    ],
+    "link": "https://s24egao.github.io/3d",
+    "page": "/works/01"
+}

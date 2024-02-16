@@ -1,0 +1,11 @@
+{
+    "name": "Web Fireworks",
+    "image": "/img/works/image02.jpg",
+    "date": "2022 / 11 / 20",
+    "info": [
+        { "name": "description", "content": "Sending fireworks between web browsers" },
+        { "name": "release date", "content": "2022 / 11 / 20" }
+    ],
+    "link": "https://github.com/s24egao/web-fireworks",
+    "page": "/works/02"
+}

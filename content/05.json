@@ -1,0 +1,11 @@
+{
+    "name": "Random Motion Graphics",
+    "image": "/img/works/image05.jpg",
+    "date": "2022 / 05 / 19",
+    "info": [
+        { "name": "description", "content": "Random motion graphics in 3D space made with p5.js" },
+        { "name": "release date", "content": "2022 / 05 / 19" }
+    ],
+    "link": "https://s24egao.github.io/motion",
+    "page": "/works/05"
+}

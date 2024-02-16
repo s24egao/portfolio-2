@@ -1,0 +1,11 @@
+{
+    "name": "Handtracking Game",
+    "image": "/img/works/image06.jpg",
+    "date": "2022 / 07 / 21",
+    "info": [
+        { "name": "description", "content": "一個透過視訊鏡頭偵測手的位置來操作的網頁小遊戲。" },
+        { "name": "release date", "content": "2022 / 07 / 21" }
+    ],
+    "link": "https://s24egao.github.io/handtracking-game",
+    "page": "/works/06"
+}

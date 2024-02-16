@@ -1,0 +1,11 @@
+{
+    "name": "Web Shaders",
+    "image": "/img/works/image07.jpg",
+    "date": "2022 / 09 / 02",
+    "info": [
+        { "name": "description", "content": "WebGL shader effects study" },
+        { "name": "release date", "content": "2022 / 09 / 02" }
+    ],
+    "link": "https://s24egao.github.io/web-shaders",
+    "page": "/works/07"
+}

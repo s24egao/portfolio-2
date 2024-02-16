@@ -1,0 +1,11 @@
+{
+    "name": "Portfolio 2022",
+    "image": "/img/works/image08.jpg",
+    "date": "2022 / 02 / 17",
+    "info": [
+        { "name": "description", "content": "在 2022 年開始設計的個人網頁，每當有空閒或是學會新的技術時就會對網頁去進行一番修改，嘗試了一些互動效果像是滑鼠特效、按鈕轉場等。" },
+        { "name": "release date", "content": "2022 / 02 / 17" }
+    ],
+    "link": "https://s24egao.github.io/2022",
+    "page": "/works/08"
+}
